@@ -4,7 +4,7 @@
 
 ### cd ReactNativeFilmesApp
 
-## Instalar dependencias
+## Instalar dependencias e rodar
 
 ### yarn
 
